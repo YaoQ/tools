@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo ntpdate us.pool.ntp.org
+sudo ntpdate -u us.pool.ntp.org
